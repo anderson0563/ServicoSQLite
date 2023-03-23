@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AcessoSistemaServico</string>
+    <string name="hint_editlogin">login</string>
+    <string name="hint_editpassword">password</string>
+    <string name="text_buttonvalidation">validate</string>
+</resources>
